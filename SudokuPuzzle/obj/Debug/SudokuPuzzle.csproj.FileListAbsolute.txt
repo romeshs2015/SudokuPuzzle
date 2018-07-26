@@ -1,0 +1,5 @@
+C:\Learning\ScotiaBank\SudokuPuzzle\SudokuPuzzle\bin\Debug\SudokuPuzzle.exe.config
+C:\Learning\ScotiaBank\SudokuPuzzle\SudokuPuzzle\bin\Debug\SudokuPuzzle.exe
+C:\Learning\ScotiaBank\SudokuPuzzle\SudokuPuzzle\bin\Debug\SudokuPuzzle.pdb
+C:\Learning\ScotiaBank\SudokuPuzzle\SudokuPuzzle\obj\Debug\SudokuPuzzle.exe
+C:\Learning\ScotiaBank\SudokuPuzzle\SudokuPuzzle\obj\Debug\SudokuPuzzle.pdb
